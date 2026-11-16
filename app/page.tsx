@@ -143,6 +143,7 @@ export default function Home() {
             <p className="terminal-output">Platform Engineering</p>
             <p><span className="terminal-green">$</span> status</p>
             <p className="terminal-success">● Building and learning</p>
+            <p className="terminal-success">● Deployment update: v5 via Backstage</p>
           </div>
         </div>
       </section>
