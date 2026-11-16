@@ -1,0 +1,17 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "nextjs-portfolio-platforme-demo-v2"
+  description: "Junior Cloud and DevOps Engineer interested in Linux, Cloud Infrastructure, Automation and Platform Engineering."
+  annotations:
+    github.com/project-slug: "MontassarHannachi/nextjs-portfolio-platforme-demo-v2"
+  tags:
+    - nextjs
+    - portfolio
+    - docker
+    - cloud
+    - devops
+spec:
+  type: website
+  lifecycle: experimental
+  owner: group:default/guests
